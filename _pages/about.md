@@ -3,6 +3,25 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+I'm an experienced software developer, engineer, and aspiring data scientist.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+Most of the last 10 years of my career has been spent applying various software frameworks to build out web applications. I love this, and think it's a great use case for technology.
+
+Recently however I've found myself also very interested and curious in analytical and scientific applications of computing and because of this I am currently in the process of shifting my skills sets towards mathematics, statistics and data.
+
+## Industries
+
+- Medical GPO
+- Financial / Banking / FinTech
+- DoD Contracting - (USAF)
+- ECommerce
+- Construction / Engineering
+- Professional Services
+
+## Industry Interests
+
+- Astronomy
+- Astrophysics
+- Medical
+- Research
+- Environmental / Climate
