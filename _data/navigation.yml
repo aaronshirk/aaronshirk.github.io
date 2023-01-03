@@ -7,3 +7,14 @@ main:
     url: /categories/
   - title: "Tags"
     url: /tags/
+
+# about links
+about:
+  - title: About
+    children:
+      - title: "Background"
+        url: /background/
+      - title: "Experience"
+        url: /experience/
+      - title: "Skills"
+        url: /skills/

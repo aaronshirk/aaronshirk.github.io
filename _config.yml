@@ -79,6 +79,15 @@ footer:
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/aaronshirk/"
 
+# Collections
+collections:
+  about:
+    output: true
+    permalink: /:collection/:path/
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
+
 defaults:
   # _posts
   - scope:
@@ -98,6 +107,18 @@ defaults:
     values:
       layout: single
       author_profile: true
+  # _about
+  - scope:
+      path: ""
+      type: about
+    values:
+      layout: single
+      read_time: false
+      author_profile: true
+      share: false
+      comments: false
+      sidebar:
+        nav: "about"
 
 category_archive:
   type: liquid

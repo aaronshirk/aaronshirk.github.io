@@ -1,6 +1,7 @@
 ---
 permalink: /about/
 title: "About"
+toc: true
 ---
 
 I'm an experienced software developer, engineer, and aspiring data scientist.
