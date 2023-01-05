@@ -1,5 +1,5 @@
 ---
-title: "Auto Pricing"
+title: "Sample Item 1"
 excerpt: "Analysis of new vs used cars in the age of Covid-19 and inflation"
 header:
   image: /assets/images/unsplash-gallery-image-1.jpg
