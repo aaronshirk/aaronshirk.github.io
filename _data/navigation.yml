@@ -1,9 +1,22 @@
 main:
   - title: "About"
-    url: /about/
-  - title: "Experience"
-    url: /experience/
-  - title: "Categories"
-    url: /categories/
+    url: /about/background/
+  - title: "Portfolio"
+    url: /portfolio/
+  - title: "Fractal Art"
+    url: /fractalart/
   - title: "Tags"
     url: /tags/
+
+# about links
+about:
+  - title: About
+    children:
+      - title: "Background"
+        url: /about/background/
+      - title: "Education"
+        url: /about/education/
+      - title: "Experience"
+        url: /about/experience/
+      - title: "Skills"
+        url: /about/skills/

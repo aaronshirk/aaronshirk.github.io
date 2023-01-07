@@ -1,13 +1,13 @@
 ---
-permalink: /about/
-title: "About"
+title: "Background"
+permalink: /about/background/
 ---
 
 I'm an experienced software developer, engineer, and aspiring data scientist.
 
 Most of the last 10 years of my career has been spent applying various software frameworks to build out web applications. I love this, and think it's a great use case for technology.
 
-Recently however I've found myself also very interested and curious in analytical and scientific applications of computing and because of this I am currently in the process of shifting my skills sets towards mathematics, statistics and data.
+Recently however I've found myself also very interested and curious in analytical and scientific applications of computing and because of this I am currently in the process of shifting my skills sets towards mathematics, statistics, and data.
 
 ## Industries
 
