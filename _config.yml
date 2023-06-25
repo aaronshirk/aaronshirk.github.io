@@ -128,7 +128,10 @@ defaults:
       type: about
     values:
       layout: single
-      author_profile: true
+      read_time: false
+      author_profile: false
+      share: false
+      comments: false
       sidebar:
         nav: "about"
   # _portfolio

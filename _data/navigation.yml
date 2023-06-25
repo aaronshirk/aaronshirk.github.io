@@ -10,7 +10,7 @@ main:
 
 # about links
 about:
-  - title: About
+  - title: Professional
     children:
       - title: "Background"
         url: /about/background/
