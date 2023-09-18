@@ -1,0 +1,97 @@
+{
+  "education": {
+    "title": "Education",
+    "programs": [
+      {
+        "type": "university",
+        "institution": "University of Colorado",
+        "program_title": "MS - Space Operations Engineering",
+        "grade": "GPA: 4.00"
+      },
+      {
+        "type": "university",
+        "institution": "The Ohio State University",
+        "program_title": "BS - Computer Information Science and Engineering",
+        "grade": "GPA: 3.89"
+      }
+    ]
+  },
+  "employment": {
+    "title": "Work Experience",
+    "linkedin_link_href": "https://www.linkedin.com/in/aaronshirk/",
+    "linkedin_link_text": "LinkedIn",
+    "linkedin_link_alt": "Link to my LinkedIn profile",
+    "jobs": [
+      {
+        "title": "Senior Analytics Engineer",
+        "company": "Premier Inc.",
+        "employ_dates": "Apr 22 - Present",
+        "job_description": "Build data analytics reports, data pipelines",
+        "details": {
+          "details_tag": "Skills:",
+          "bullets": [
+            "React.js",
+            "Typescript",
+            "PostgreSQL",
+            "Apache Airflow",
+            "Software Development",
+            "SQL",
+            "Python",
+            "Pandas"
+          ]
+        }
+      },
+      {
+        "title": "Senior Software Developer",
+        "company": "North Wind Group",
+        "employ_dates": "Oct 21 - Apr 22",
+        "job_description": "Worked as lead software developer helping to establish modern software development practices",
+        "details": {
+          "details_tag": "Responsibilities:",
+          "bullets": [
+            "Dev stack: ReactJS, ASP.NET Core, Sql Server, Git/Github",
+            "Cloud: Azure App Services & Azure DevOps",
+            "Teach and promote modern application development",
+            "Maintain existing corporate applications",
+            "Establish and train standard development practices (Agile)",
+            "Maintain corporate legacy applications"
+          ]
+        }
+      },
+      {
+        "title": "Full Stack Developer (Contract and Full-Time)",
+        "company": "PWC",
+        "employ_dates": "Aug 20 - Sep 21",
+        "job_description": "Develop APIs for COVID-19 Contact Tracing (ACT) application",
+        "details": {
+          "details_tag": "Skills:",
+          "bullets": [
+            "ASP.NET Core",
+            "C#",
+            "EntityFramework Core",
+            "Sql Server",
+            "Azure App Services",
+            "Azure Functions (C#)",
+            "Cloud: Azure App Services & Azure DevOps"
+          ]
+        }
+      },
+      {
+        "title": "Software Developer",
+        "company": "JMT Technology Group",
+        "employ_dates": "Sep 19 - Aug 20",
+        "job_description": "Implement new features for JMT’s Outdoor Licensing and Registration platform",
+        "details": {
+          "details_tag": "Skills:",
+          "bullets": [
+            "Angular 7",
+            "Typescript",
+            "C#",
+            ".Net Framework",
+            "Sql Server"
+          ]
+        }
+      }
+    ]
+  }
+}
